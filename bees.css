@@ -12,9 +12,7 @@ body {
 	font-family: Verdana, sans-serif;
 }
 
-main, h1 {
-	opacity: 0;
-}
+main, h1 { opacity: 0; }
 
 p {	
 	font-family: Noto Sans, sans-serif;
@@ -55,4 +53,4 @@ div.two {
 	grid-template-columns: 1fr 1fr;
 	grid-gap: 0px;
 	justify-content: space-around;
-}
+} 
