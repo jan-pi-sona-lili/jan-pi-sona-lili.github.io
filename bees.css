@@ -1,0 +1,58 @@
+@keyframes fadein {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+body {
+	background-color: white;
+	font-family: Verdana, sans-serif;
+}
+
+main, h1 {
+	opacity: 0;
+}
+
+p {	
+	font-family: Noto Sans, sans-serif;
+	color: #303030;
+}
+
+div.a {
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 5px;
+	border-color: #909090;
+	margin: 10px;
+	box-shadow: 0px 0px 5px #CCCCCC;
+}
+
+div.one {
+	margin: 10px 5px 10px 10px;
+}
+div.two {
+	margin: 10px 10px 10px 5px;
+}
+.center {
+	text-align: center;
+}
+
+.fadeinfirst {
+	animation: fadein 2s ease-in 0s 1;
+	animation-fill-mode: forwards;
+}
+
+.fadeinrest {
+	animation: fadein 2s ease-in 2s 1;
+	animation-fill-mode: forwards;
+}
+
+.grid-container {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 0px;
+	justify-content: space-around;
+}
