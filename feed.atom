@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Heaven</title>
+	<link>https://jan-pi-sona-lili.github.io</link>
+	<description>Home of Homeobox Incorporated</description>
+	<author>
+		<name>ilo Kali</name>
+	</author>
+	<entry>
+		<title>[META] testing Atom for updates, etc.</title>
+		<link>https://jan-pi-sona-lili.github.io/</link>
+		<summary>[META] Simply testing the Atom feed.</summary>
+	</entry>
+</feed>
