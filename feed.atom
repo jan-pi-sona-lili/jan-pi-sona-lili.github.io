@@ -11,4 +11,9 @@
 		<link>https://jan-pi-sona-lili.github.io/</link>
 		<summary>[META] Simply testing the Atom feed.</summary>
 	</entry>
+	<entry>
+		<title>[META] Testing again</title>
+		<link>https://jan-pi-sona-lili.github.io/</link>
+		<summary>[META] Testing once again.</summary>
+	</entry>
 </feed>
